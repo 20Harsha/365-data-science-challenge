@@ -1,5 +1,5 @@
 # 365-data-science-challenge 
-To create dashboard for Student’s Engagement Analysis 
+To create dashboard to analyze Student’s Engagement with the 365 data science platform
 
 # Method:
 * Data Collection: 365 data science provided a MYSQL database of 11 tables.
