@@ -1,6 +1,8 @@
 # 365-data-science-challenge 
 To create dashboard for Student’s Engagement Analysis 
 
+![Dashboard](https://user-images.githubusercontent.com/87359806/206179174-5ffd3eea-5e7e-4934-bf78-5841e2c559ab.PNG)
+
 # Method:
 * Data Collection: 365 data science provided a MYSQL database of 11 tables.
 * Data preparation and analysis: I used Power BI for data cleaning, data modelling, identifying useful insights. 
@@ -31,4 +33,8 @@ Power BI, MySQL.
 
 ## Link to my interactive dashboard at novypro 
 https://www.novypro.com/project/365-learning-data-challenge
+
+
+
+
 
