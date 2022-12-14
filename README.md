@@ -26,10 +26,10 @@ To create dashboard to analyze Student’s Engagement with the 365 data science 
 * Most students prefer annual subscription compare to monthly and quarterly.
 * Most number of student’s are from India and US.
 
-## Tools 
+## Tools used: 
 Power BI, MySQL.
 
-## Link to my interactive dashboard at novypro 
+## Link to my interactive dashboard at novypro: 
 https://www.novypro.com/project/365-learning-data-challenge
 
 ![Dashboard](https://user-images.githubusercontent.com/87359806/206179174-5ffd3eea-5e7e-4934-bf78-5841e2c559ab.PNG)
